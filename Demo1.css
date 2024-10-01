@@ -1,0 +1,22 @@
+
+
+ html{
+
+text-align: center;
+ font-size:x-large;
+ background-color: black;
+
+    }
+    p1{background-color: rgb(179, 94, 173);
+        font-size: xx-large;}
+P{color: black;
+font-size: x-large;
+text-align: left;
+background-color: rgb(179, 94, 173);}
+
+    
+  body{
+    background-color:rgb(101, 74, 164);
+  }
+  a{background-color: white;
+margin: 0.2cm;}

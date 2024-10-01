@@ -1,0 +1,31 @@
+
+
+h1{background-color: rgb(222, 16, 167);
+    color: blue;
+font-size: xxx-large;
+text-align: center;}
+
+html{
+    text-align: center;
+    text-decoration: underline;
+
+}
+
+
+
+body{background-image:url(images/Powerboating_2.jpg);
+}
+a{background-color: rgba(240, 235, 235, 0.89);
+font-size: x-large;
+}
+script{
+    padding: 0;
+    margin: 0;
+}
+.comment-box button
+{width: 50px;
+    height: 30%;
+    padding: 50px 50px;
+    font-size: larger;
+color: #000;
+}
